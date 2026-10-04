@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustrație cu scaune auto din piele</title>
+  <desc id="desc">Două scaune auto din piele prezentate clar din interiorul habitaclului.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#31404b"/><stop offset="1" stop-color="#0a1016"/></linearGradient>
+    <linearGradient id="seat" x2="0" y2="1"><stop stop-color="#d0ac76"/><stop offset=".55" stop-color="#94704a"/><stop offset="1" stop-color="#493524"/></linearGradient>
+    <linearGradient id="floor" x2="0" y2="1"><stop stop-color="#242c31"/><stop offset="1" stop-color="#090d11"/></linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <path d="M105 0h990l-132 322H237z" fill="#90a9a9" opacity=".65"/>
+  <path d="M0 350q600-92 1200 0v450H0z" fill="url(#floor)"/>
+  <path d="M250 268q8-94 104-117l104 5q72 17 82 112l-7 154-45 24 11 336H198l22-323-37-41z" fill="url(#seat)" stroke="#e4c48c" stroke-width="8"/>
+  <path d="M311 201q31-35 77-36l53 4q43 8 57 53l12 111-202 6z" fill="#d6b984"/>
+  <path d="M278 340l233-4m-206 48h176m-170 43h169" stroke="#5d422b" stroke-width="6" opacity=".75"/>
+  <path d="M647 268q8-94 104-117l104 5q72 17 82 112l-7 154-45 24 11 336H595l22-323-37-41z" fill="url(#seat)" stroke="#e4c48c" stroke-width="8"/>
+  <path d="M708 201q31-35 77-36l53 4q43 8 57 53l12 111-202 6z" fill="#d6b984"/>
+  <path d="M675 340l233-4m-206 48h176m-170 43h169" stroke="#5d422b" stroke-width="6" opacity=".75"/>
+  <path d="M0 762q600-90 1200 0v38H0z" fill="#d5aa63"/>
+  <text x="600" y="750" fill="#f2c96b" font-family="Arial,sans-serif" font-size="24" text-anchor="middle" letter-spacing="5">TAPIȚERIE &amp; ÎNGRIJIREA PIELEI</text>
+</svg>

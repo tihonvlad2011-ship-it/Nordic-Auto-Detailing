@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustrație cu interior auto premium</title>
+  <desc id="desc">Vedere din interiorul automobilului către bord, volan și scaune.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#293747"/><stop offset="1" stop-color="#0c121a"/></linearGradient>
+    <linearGradient id="glass" x2="0" y2="1"><stop stop-color="#6b9ca9"/><stop offset="1" stop-color="#c2d1c8"/></linearGradient>
+    <linearGradient id="leather" x2="0" y2="1"><stop stop-color="#b28b56"/><stop offset="1" stop-color="#553c2a"/></linearGradient>
+    <linearGradient id="dash" x2="0" y2="1"><stop stop-color="#323a40"/><stop offset="1" stop-color="#11171c"/></linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <path d="M120 72h960l104 354H16z" fill="url(#glass)" opacity=".9"/>
+  <path d="M154 112h892l-65 205H219z" fill="#273c43" opacity=".38"/>
+  <path d="M0 409q280-128 600-74 320-54 600 74v391H0z" fill="url(#dash)"/>
+  <path d="M0 439q245-102 480-49l-24 118H0zm1200 0q-245-102-480-49l24 118h456z" fill="#20282e"/>
+  <path d="M440 427h320l30 90H410z" fill="#0b1015" stroke="#d5aa63" stroke-width="5"/>
+  <rect x="480" y="450" width="240" height="47" rx="18" fill="#17232b"/>
+  <path d="M484 470h50m24 0h42m25 0h42m24 0h25" stroke="#d5aa63" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="329" cy="491" r="93" fill="#12171b" stroke="#c89a55" stroke-width="13"/>
+  <circle cx="329" cy="491" r="28" fill="#c89a55"/>
+  <path d="M329 463v-52m-25 94-58 31m108-31 58 31" stroke="#c89a55" stroke-width="13" stroke-linecap="round"/>
+  <path d="M69 589q7-97 84-118l91 5q55 24 56 94l-7 230H29z" fill="url(#leather)"/>
+  <path d="M109 541q15-31 51-33l64 7q35 14 37 61l-5 90-160-12z" fill="#d0ae7c" opacity=".7"/>
+  <path d="M848 589q7-97 84-118l91 5q55 24 56 94l-7 230H808z" fill="url(#leather)"/>
+  <path d="M888 541q15-31 51-33l64 7q35 14 37 61l-5 90-160-12z" fill="#d0ae7c" opacity=".7"/>
+  <path d="M0 782q600-85 1200 0v18H0z" fill="#d5aa63"/>
+  <text x="600" y="760" fill="#f2c96b" font-family="Arial,sans-serif" font-size="24" text-anchor="middle" letter-spacing="5">INTERIOR AUTO · BORD &amp; PIELE</text>
+</svg>

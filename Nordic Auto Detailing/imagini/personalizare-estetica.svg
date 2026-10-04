@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustrație auto pentru personalizare estetică</title>
+  <desc id="desc">Automobil sport stilizat cu accente vizuale, jante și vopsea lucioasă.</desc>
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#293743"/><stop offset="1" stop-color="#090e14"/></linearGradient>
+    <linearGradient id="body" x2="0" y2="1"><stop stop-color="#e7bd6a"/><stop offset=".55" stop-color="#a96c24"/><stop offset="1" stop-color="#45301d"/></linearGradient>
+    <linearGradient id="glass" x2="0" y2="1"><stop stop-color="#9abdc1"/><stop offset="1" stop-color="#263a43"/></linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <path d="M0 598h1200v202H0z" fill="#10171e"/>
+  <path d="M165 508l87-90 130-25 127-128q41-37 100-37h153q75 0 123 62l92 119 89 36 30 75-26 45H179z" fill="url(#body)" stroke="#f4d28b" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M428 389l112-110q30-28 73-28h147q41 0 73 39l72 99z" fill="url(#glass)" stroke="#e3bd70" stroke-width="8"/>
+  <path d="M640 260v138m204-83 23 83" stroke="#d5aa63" stroke-width="8"/>
+  <path d="M198 503h835l55 55H181z" fill="#202a31"/>
+  <path d="M171 526h95m680 0h120" stroke="#f2c96b" stroke-width="15" stroke-linecap="round"/>
+  <circle cx="376" cy="548" r="87" fill="#080b0e" stroke="#c58d3b" stroke-width="12"/>
+  <circle cx="376" cy="548" r="39" fill="#29333a" stroke="#e6bb69" stroke-width="8"/>
+  <path d="M376 510v76m-38-38h76m-65-27 54 54m0-54-54 54" stroke="#cda55f" stroke-width="6"/>
+  <circle cx="907" cy="548" r="87" fill="#080b0e" stroke="#c58d3b" stroke-width="12"/>
+  <circle cx="907" cy="548" r="39" fill="#29333a" stroke="#e6bb69" stroke-width="8"/>
+  <path d="M907 510v76m-38-38h76m-65-27 54 54m0-54-54 54" stroke="#cda55f" stroke-width="6"/>
+  <path d="M219 471l111-13m592-79 95 49" stroke="#fff0c4" stroke-width="6" opacity=".8"/>
+  <text x="600" y="738" fill="#f2c96b" font-family="Arial,sans-serif" font-size="25" text-anchor="middle" letter-spacing="6">PERSONALIZARE ESTETICĂ · ILUSTRAȚIE</text>
+</svg>
